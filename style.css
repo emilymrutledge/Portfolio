@@ -82,12 +82,12 @@ img {
 }
 .site-header .nav-logo a img {
   max-width: 100px;
-  height: auto;
+  height: 75px;
 }
 @media screen and (min-width: 768px) {
   .site-header .nav-logo a img {
-    max-width: 314px;
-    height: auto;
+    max-width: 100px;
+    height: 75px;
   }
 }
 .site-header .nav-links {
