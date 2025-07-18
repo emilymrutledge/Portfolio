@@ -25,8 +25,8 @@ p {
 .bold {
   font-weight: 700;
 }
-.orange {
-  color: #FF5100;
+.purple {
+  color: #7111b6;
 }
 h2 {
   font-size: 36px;
@@ -186,9 +186,6 @@ img {
   background-size: contain;
 }
 .banner .banner--content .name {
-  text-transform: uppercase;
-}
-.banner .banner--content .designation {
   color: rgba(255, 255, 255, 0.7);
   text-transform: uppercase;
   font-family: 'Oxygen', sans-serif;
@@ -197,7 +194,7 @@ img {
   margin: 0;
 }
 @media screen and (min-width: 768px) {
-  .banner .banner--content .designation {
+  .banner .banner--content .name {
     font-size: 70px;
   }
 }
@@ -223,7 +220,7 @@ img {
     font-size: 70px;
   }
 }
-.promo .content h2 span.orange {
+.promo .content h2 span.purple {
   font-weight: 700;
 }
 .promo .content p {
