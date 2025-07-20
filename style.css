@@ -81,8 +81,8 @@ img {
   padding: 10px 5px 5px;
 }
 .site-header .nav-logo a img {
-  max-width: 100px;
-  height: 50px;
+  /*max-width: 100px;*/
+  height: 100px;
 }
 @media screen and (min-width: 768px) {
   .site-header .nav-logo a img {
