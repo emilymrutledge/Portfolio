@@ -371,7 +371,7 @@ img {
   -ms-flex-preferred-size: 50%;
       flex-basis: 50%;
   position: relative;
-  background-color: #cb2027;
+  background-color: #7f53ac;
   -webkit-transition: all 0.8s ease-in-out;
   transition: all 0.8s ease-in-out;
   max-height: 420px;
