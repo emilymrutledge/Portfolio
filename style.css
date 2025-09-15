@@ -392,8 +392,8 @@ img {
 #portfolio .portfolio--content .item img {
   -ms-flex-negative: 0;
       flex-shrink: 0;
-  min-width: 100%;
-  min-height: 100%;
+  min-width: 75%;
+  min-height: 75%;
 }
 #portfolio .portfolio--content .item:hover > h3 {
   opacity: 1;
@@ -445,6 +445,10 @@ img {
   font-size: 16px;
   line-height: 1.6;
   color: #E0E0E0;
+}
+.site-footer .site-footer--content .footer-left img {
+  max-width: 100px;
+  height: auto;
 }
 .site-footer .site-footer--content .footer-right {
   -ms-flex-preferred-size: 40%;
